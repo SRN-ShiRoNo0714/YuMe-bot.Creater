@@ -1,3 +1,5 @@
 # YuMe-bot.Creater
 
-ないね。
+Heroku用！
+あとは・・・ない？ｗ
+
